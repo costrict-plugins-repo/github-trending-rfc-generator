@@ -1,0 +1,8 @@
+{
+  "name": "rfc",
+  "version": "1.0.0",
+  "description": "Request for Comments document generator. Helps explore problems with multiple proposed solutions, trade-offs, and open questions through interactive section-by-section drafting.",
+  "author": {
+    "name": "Benedixx"
+  }
+}

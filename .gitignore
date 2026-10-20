@@ -1,0 +1,8 @@
+# Claude Code local settings
+.claude
+
+# RFC session state (temporary)
+.rfc-state
+
+# Generated RFC documents (uncomment to keep them out of version control)
+# rfc-*.md
